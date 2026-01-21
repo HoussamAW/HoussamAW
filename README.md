@@ -53,34 +53,17 @@ Key features
 
 Tech
 	•	SwiftUI
-	•	Concurrency, e
+	•	Concurrency
 	•	CoreML, Vision
 	•	Accessibility APIs
-
-### 🔹 Accessibility & Learning Projects
-I’m actively exploring projects focused on:
-- Reading and attention challenges
-- Accessibility-first design
-- AI and its social consequences
-
-(More projects coming soon 🚀)
-
----
-
-## 🎯 What I’m aiming for
-
-- Become a strong iOS / visionOS engineer
-- Build high-quality portfolio projects
-- Contribute to open-source
-- Work at companies like Apple, Meta, or innovative startups
-
+	
 ---
 
 ## 📫 Let’s connect
 
-- GitHub: you are here 🙂
-- LinkedIn: (add your link here)
-- Portfolio: (coming soon)
+- Website: https://www.houssamaw.com
+- LinkedIn: https://www.linkedin.com/in/houssam-a-w-668251171/
+- Mail: houssamabdoulwahab@gmail.com 
 
 ---
 
