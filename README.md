@@ -42,8 +42,7 @@ An accessibility-first iOS app designed to help visually impaired users better u
 
 The app uses on-device AI to detect real-world objects through the camera and provides audio and haptic guidance to assist users in real time.
 
-🧪 Currently available on TestFlight
-👉 https://testflight.apple.com/join/k4ybXBK5
+✅ Available on App Store 👉 https://apple.co/3Qv6Noi
 
 Key features
 	•	Real-time object detection (CoreML + Vision)
