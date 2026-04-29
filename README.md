@@ -25,6 +25,7 @@ Languages & Frameworks
 - UIKit
 - Concurrency
 - CoreML, Vision, ARKit, RealityKit,...
+- MLX
 
 Tools
 - Xcode
