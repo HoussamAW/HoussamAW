@@ -56,6 +56,29 @@ Tech
 	•	Concurrency
 	•	CoreML, Vision
 	•	Accessibility APIs
+
+
+🔸 StikAR (iOS/iPadOS)
+
+An augmented reality social app that lets users place digital stickers and photos in real-world locations and rediscover them later through AR.
+
+The app combines ARKit, RealityKit, and location-based persistence to create shared immersive experiences anchored to physical spaces.
+
+✅ Available on App Store 👉 https://apple.co/4dNtQ7w
+
+Key features  
+• Place 3D stickers and photos in real-world environments  
+• Persistent AR spaces with location awareness  
+• Shared immersive experiences between users  
+• Real-time sticker synchronization with Firebase  
+• Built with SwiftUI and Swift Concurrency  
+
+Tech  
+• SwiftUI  
+• Swift Concurrency  
+• ARKit, RealityKit  
+• CoreLocation
+• Firebase Firestore  
 	
 ---
 
