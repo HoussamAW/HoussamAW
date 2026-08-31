@@ -86,7 +86,7 @@ Tech
 
 - Website: https://www.houssamaw.com
 - LinkedIn: https://www.linkedin.com/in/houssam-a-w-668251171/
-- Mail: h_abdoulwahab@apple.com
+- Mail: houssamabdoulwahab@gmail.com
 
 ---
 
