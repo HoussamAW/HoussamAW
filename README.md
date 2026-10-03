@@ -12,7 +12,7 @@ I’m a developer focused on building modern, meaningful Apple applications usin
 I love turning complex ideas into simple, elegant user experiences, especially in areas like:
 - Accessibility
 - Education
-- Immersive computing (Vision Pro)
+- Spatial Computing
 - Human-centered design
 
 ---
@@ -31,6 +31,7 @@ Tools
 - Xcode
 - Git & GitHub
 - Figma
+- Blender
 - Apple HIG
 
 ---
@@ -86,7 +87,7 @@ Tech
 
 - Website: https://www.houssamaw.com
 - LinkedIn: https://www.linkedin.com/in/houssam-a-w-668251171/
-- Mail: houssamabdoulwahab@gmail.com
+- Mail: h.abdoulwahab@icloud.com
 
 ---
 
